@@ -1,8 +1,0 @@
-{
-  "uc.view.context-menu-icons": {
-    "name": "Display Context Menu Icons",
-    "description": "Show icons next to menu items in the bookmarks and context menus.",
-    "type": "boolean",
-    "default": true
-  }
-}
